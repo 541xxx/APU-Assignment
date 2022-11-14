@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T11:29:23.912Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="FlIERFjNNuSPmuYKYrsS" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T11:30:16.665Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="h5K5qX9UEM0U76nOZem_" version="20.5.3" type="github">
   <diagram id="kpp0p4vaVyjLrGLZzNB3" name="simple gitflow">
     <mxGraphModel dx="1319" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -55,19 +55,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XVOhkNCDuT8Im4PqYky6-45" value="&lt;ul style=&quot;line-height: 140%;&quot;&gt;&lt;li&gt;Maintain system: Small patches, repairs, and updates&lt;br&gt;&lt;/li&gt;&lt;li&gt;&amp;nbsp;Enhance system: Small upgrades or enhancements to expand system capabilities&lt;br&gt;&lt;/li&gt;&lt;li&gt;Support users: Help desk and/or support team&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="50" y="306" width="179" height="164" as="geometry" />
+          <mxGeometry x="90" y="303" width="179" height="164" as="geometry" />
         </mxCell>
         <mxCell id="XVOhkNCDuT8Im4PqYky6-48" value="&lt;ul style=&quot;line-height: 140%;&quot;&gt;&lt;li&gt;Construct software components&lt;/li&gt;&lt;li&gt;&amp;nbsp;Verify and test Convert data&lt;/li&gt;&lt;li&gt;Train users and document the system&lt;/li&gt;&lt;li&gt;&amp;nbsp;Install the system&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="334.5" y="660" width="189" height="125" as="geometry" />
+          <mxGeometry x="334.5" y="630" width="189" height="125" as="geometry" />
         </mxCell>
         <mxCell id="XVOhkNCDuT8Im4PqYky6-50" value="&lt;ul style=&quot;line-height: 140%;&quot;&gt;&lt;li&gt;Design and integrate the network&lt;/li&gt;&lt;li&gt;Design the application architecture&lt;/li&gt;&lt;li&gt;Design the user interfaces&lt;/li&gt;&lt;li&gt;Design the system interfaces&lt;/li&gt;&lt;li&gt;Design and integrate the database&lt;/li&gt;&lt;li&gt;Prototype for design details&lt;/li&gt;&lt;li&gt;Design and integrate system controls&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="534.5" y="660" width="217" height="195" as="geometry" />
+          <mxGeometry x="534.5" y="630" width="217" height="195" as="geometry" />
         </mxCell>
         <mxCell id="XVOhkNCDuT8Im4PqYky6-57" value="&lt;ul style=&quot;line-height: 140%;&quot;&gt;&lt;li&gt;Gather information to learn problem domain&lt;/li&gt;&lt;li&gt;Define system requirements&lt;/li&gt;&lt;li&gt;Prioritize requirements&lt;/li&gt;&lt;li&gt;Generate and evaluate alternatives&lt;/li&gt;&lt;li&gt;Review recommendations with management&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="833" y="303" width="257" height="138" as="geometry" />
+          <mxGeometry x="790" y="303" width="257" height="138" as="geometry" />
         </mxCell>
         <mxCell id="XVOhkNCDuT8Im4PqYky6-66" value="&lt;ul style=&quot;line-height: 150%;&quot;&gt;&lt;li&gt;Define business problem and scope&lt;br&gt;&lt;/li&gt;&lt;li&gt;Produce detailed project schedule&lt;br&gt;&lt;/li&gt;&lt;li&gt;Project initial and feasibility studies&lt;br&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Economic, organizational, technical, resource, and schedule&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Staff the project (resource management)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Launch project -&amp;gt; official announcement&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="386.5" y="50" width="289" height="140" as="geometry" />
+          <mxGeometry x="386.5" y="70" width="289" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
