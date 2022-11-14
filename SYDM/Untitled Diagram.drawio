@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T11:24:34.783Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="qMt4kxcqMpy7dWteOB8x" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T11:29:23.912Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="FlIERFjNNuSPmuYKYrsS" version="20.5.3" type="github">
   <diagram id="kpp0p4vaVyjLrGLZzNB3" name="simple gitflow">
-    <mxGraphModel dx="1671" dy="1079" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1319" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JxC9IEEVYPg9Gp5Ud_OF-74" value="PLANNING&lt;br&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="481" y="220" width="100" height="40" as="geometry" />
+          <mxGeometry x="481" y="230" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JxC9IEEVYPg9Gp5Ud_OF-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;align=center;" parent="1" source="JxC9IEEVYPg9Gp5Ud_OF-77" target="JxC9IEEVYPg9Gp5Ud_OF-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -66,8 +66,8 @@
         <mxCell id="XVOhkNCDuT8Im4PqYky6-57" value="&lt;ul style=&quot;line-height: 140%;&quot;&gt;&lt;li&gt;Gather information to learn problem domain&lt;/li&gt;&lt;li&gt;Define system requirements&lt;/li&gt;&lt;li&gt;Prioritize requirements&lt;/li&gt;&lt;li&gt;Generate and evaluate alternatives&lt;/li&gt;&lt;li&gt;Review recommendations with management&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="833" y="303" width="257" height="138" as="geometry" />
         </mxCell>
-        <mxCell id="XVOhkNCDuT8Im4PqYky6-66" value="&lt;ul style=&quot;line-height: 150%;&quot;&gt;&lt;li&gt;Define business problem and scope&lt;br&gt;&lt;/li&gt;&lt;li&gt;Produce detailed project schedule&lt;br&gt;&lt;/li&gt;&lt;li&gt;Project initial and feasibility studies&lt;br&gt;&lt;/li&gt;&lt;li&gt;Staff the project (resource management)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Launch project -&amp;gt; official announcement&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="386.5" y="70" width="289" height="120" as="geometry" />
+        <mxCell id="XVOhkNCDuT8Im4PqYky6-66" value="&lt;ul style=&quot;line-height: 150%;&quot;&gt;&lt;li&gt;Define business problem and scope&lt;br&gt;&lt;/li&gt;&lt;li&gt;Produce detailed project schedule&lt;br&gt;&lt;/li&gt;&lt;li&gt;Project initial and feasibility studies&lt;br&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Economic, organizational, technical, resource, and schedule&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Staff the project (resource management)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Launch project -&amp;gt; official announcement&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="386.5" y="50" width="289" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
